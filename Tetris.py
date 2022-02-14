@@ -964,7 +964,7 @@ def update():
             timeOnGround = time.time()
 
         if onGround:
-            if time.time()-timeOnGround>=((lock_delay*frame)-(1/gravity if gravity!=0 else float("inf"))):
+            if time.time()-timeOnGround>=(lock_delay*frame):
                 lockBool = True
                 
         if wait_deny or lockBool:
