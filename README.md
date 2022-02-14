@@ -15,14 +15,15 @@ osk       | more inspiration: https://tetr.io/
 2. Download Ascii-Tetris as zip  
 3. Extract all  
 4. Go into Ascii-Tetris folder  
-5. Right click on tetris.py  
-6. Hover over edit with IDLE  
-7. Click edit with IDLE  
-8. Edit keybinds where it says keybinds. **make sure to keep the double quotes!!!!!**  
-9. ctrl + s to save  
-10. Exit  
-11. Double click the tetris.py file.   
-12. You're done!!  
+5. Double click on setup.py and wait until it is done
+6. Right click on tetris.py  
+7. Hover over edit with IDLE  
+8. Click edit with IDLE  
+9. Edit keybinds where it says keybinds. **make sure to keep the double quotes!!!!!**  
+10. ctrl + s to save  
+11. Exit  
+12. Double click the tetris.py file.   
+13. You're done!!  
 
 ## How to Play:  
 Random 4 block shapes will spawn at the top and you have to control where they will be placed with movement left and right and with rotation. Clear lines on the board by filling an entire line with blocks. Try not to stack too high because if you reach the top, you lose! You can also hold one piece and use it for later. Press r to restart.  
