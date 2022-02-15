@@ -1,6 +1,8 @@
 # Ascii Tetris in Python by Sucram314
 
-So I wanted to practice Perfect Clears but I couldn't find a way to start in the middle of a bag in jstris or tetrio so I remade Tetris in Python. And it's completely ASCII graphics as well. I might add an AI later. There will probably be some more changes to make it more user friendly soon. Sorry if the code is hard to read lol
+So I wanted to practice Perfect Clears but I couldn't find a way to start in the middle of a bag in jstris or tetrio so I remade Tetris in Python. And it's completely ASCII graphics as well. I might add an AI later. Sorry if the code is hard to read lol
+
+Idk if it works on different operating systems other than windows so please tell me and I can make some changes hopfully...
 
 ## Links:  
 Preview Video: https://www.youtube.com/watch?v=0Q5jnGRVkfs
@@ -18,7 +20,11 @@ osk       | more inspiration: https://tetr.io/
 5. **Save**  
 6. Exit  
 7. Run "Ascii Tetris!.exe"  
-8. You are done!  
+8. If your computer blocks it for whatever reason, bypass it (im not trying to destroy your computer don't worry)
+   On windows it would say "Windows protected your PC". You can press more details and press run anyway to bypass it. It will never pop up again
+   Idk about other operating systems... There's probably a way to bypass the antivirus...
+   
+9. You are done!  
 
 Note: it doesn't work, you probably messed something up in the options file... In that case, you should run "Reset.exe" to reset the options file.  
 
