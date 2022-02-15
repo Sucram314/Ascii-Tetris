@@ -11,19 +11,16 @@ jezevec10 | sounds and more inspiration: https://jstris.jezevec10.com/
 osk       | more inspiration: https://tetr.io/ 
 
 ## Installation:  
-1. Download python from https://www.python.org/  
-2. Download Ascii-Tetris as zip  
-3. Extract all  
-4. Go into Ascii-Tetris folder  
-5. Double click on setup.py and wait until it is done
-6. Right click on tetris.py  
-7. Hover over edit with IDLE  
-8. Click edit with IDLE  
-9. Edit keybinds where it says keybinds. **make sure to keep the double quotes!!!!!**  
-10. ctrl + s to save  
-11. Exit  
-12. Double click the tetris.py file.   
-13. You're done!!  
+1. Download Ascii-Tetris as zip  
+2. Extract all  
+3. Open "Options.txt"  
+4. Set your controls, preferred handling, etc.  
+5. **Save**  
+6. Exit  
+7. Run "Ascii Tetris!.exe"  
+8. You are done!  
+
+Note: it doesn't work, you probably messed something up in the options file... In that case, you should run "Reset.exe" to reset the options file.  
 
 ## How to Play:  
 Random 4 block shapes will spawn at the top and you have to control where they will be placed with movement left and right and with rotation. Clear lines on the board by filling an entire line with blocks. Try not to stack too high because if you reach the top, you lose! You can also hold one piece and use it for later. Press r to restart.  
