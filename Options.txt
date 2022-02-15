@@ -1,0 +1,30 @@
+# Options file to change your game experience. Use inf for infinity, 
+# None when not applicable, and true or false for yes or no options.
+
+# ***MAKE SURE TO SAVE WHEN DONE EDITING AND TRY NOT TO DELETE ANYTHING!!!!!!***
+
+# you can reset the options by running the reset executable.
+
+# Currently they are my personal options.
+
+# Controls:
+holdKey                  = shift
+leftKey                  = a
+rightKey                 = d
+hardDropKey              = w
+softDropKey              = s
+clockwiseKey             = right
+counterClockwiseKey      = left
+oneEightyKey             = up
+
+# Handling:
+softDropFactor(SDF)      = inf
+automaticRepeatRate(ARR) = 2
+delayedAutoShift(DAS)    = 10
+dasCutDelay(DCD)         = 1
+
+# Misc:
+showFPS                  = False
+showGhost                = True
+seed                     = None
+directionChangeDASCancel = False
