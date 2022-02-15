@@ -454,12 +454,12 @@ def holdPiece():
 
 #empty board string configuration
 string = "\n"*10
-string +="                                        NEXT    \n"
-string +="                                      N000      N001      N002      N003        \n"
-string +="                                      N010      N011      N012      N013        \n"
-string +="                                      N020      N021      N022      N023        \n"
-string +="                                      N030      N031      N032      N033        \n"
 string +="                                                \n"
+string +="                                                \n"
+string +="                                                \n"
+string +="                                                \n"
+string +="                                                \n"
+string +="                                        NEXT    \n"
 string +="                                      N100      N101      N102      N103        \n"
 string +="                                      N110      N111      N112      N113        \n"
 string +="            ████████████████████████  N120      N121      N122      N123        \n"
@@ -568,11 +568,11 @@ def drawboard(board_,extraVars={}):
             else:
                 empty = replaceString(empty,"  ########",idx)
 
-    for x,name in enumerate(nex):
+    for x,name in enumerate(nex[:-1]):
         nextPiece = getPiece(name)
         for i in range(len(nextPiece)):
             for j,cell in enumerate(nextPiece[i]):
-                sub = "N"+str(x)+str(i)+str(j)+"      "
+                sub = "N"+str(x+1)+str(i)+str(j)+"      "
                 idx = string.find(sub)
                 if cell!=None:
                     empty = replaceString(empty,cell.string(),idx)
