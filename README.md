@@ -29,6 +29,8 @@ __osk__       | more inspiration: https://tetr.io/
 
 Note: if it doesn't work, you probably messed something up in the options file... In that case, you should run "Reset.exe" to reset the options file.  
 
+***DO NOT MOVE THE EXE FILEs OUT OF THE FOLDER. IF YOU WANT A SHORTCUT, THEN CREATE A SHORTCUT AND MOVE THAT.***
+
 ## How to Play:  
 Random 4 block shapes will spawn at the top and you have to control where they will be placed with movement left and right and with rotation. Clear lines on the board by filling an entire line with blocks. Try not to stack too high because if you reach the top, you lose! You can also hold one piece and use it for later. Press r to restart.  
 
