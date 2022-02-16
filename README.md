@@ -10,7 +10,7 @@ __Preview Video: https://www.youtube.com/watch?v=0Q5jnGRVkfs__
 __javidx9__   | inspiration: https://www.youtube.com/watch?v=8OK8_tHeCIA&t=550s  
 __Hard Drop__ | info on SRS rotation: https://harddrop.com/wiki/SRS  
 __jezevec10__ | sounds and more inspiration: https://jstris.jezevec10.com/  
-__osk__       | more inspiration: https://tetr.io/  
+__osk__       | 180 kicks and more inspiration: https://tetr.io/  
 
 ## Installation:  
 1. Download Ascii-Tetris as zip  
